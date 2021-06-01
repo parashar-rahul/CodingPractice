@@ -1,5 +1,3 @@
-package com.personal.coding;
-
 import java.util.*;
 
 class MaxStackBoxes {
